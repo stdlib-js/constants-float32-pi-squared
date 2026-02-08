@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import FLOAT32_PI_SQUARED from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-pi-squared@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/constants-float32-pi-squared/tags). For example,
+
+```javascript
 import FLOAT32_PI_SQUARED from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-pi-squared@v0.1.1-esm/index.mjs';
 ```
 
@@ -72,7 +77,7 @@ var bool = ( FLOAT32_PI_SQUARED === 9.869604110717773 );
 <body>
 <script type="module">
 
-import FLOAT32_PI_SQUARED from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-pi-squared@v0.1.1-esm/index.mjs';
+import FLOAT32_PI_SQUARED from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-pi-squared@esm/index.mjs';
 
 console.log( FLOAT32_PI_SQUARED );
 // => 9.869604110717773
