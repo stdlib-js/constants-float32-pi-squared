@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-17)
+## Unreleased (2026-10-13)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`5e18080`](https://github.com/stdlib-js/stdlib/commit/5e18080934729610571c6eeb9c4f5f4de1b47b94) - **test:** migrate `constants/float32/pi-squared` to ULP-based assertions [(#16088)](https://github.com/stdlib-js/stdlib/pull/16088) _(by Athan Reines)_
 -   [`e478830`](https://github.com/stdlib-js/stdlib/commit/e478830dbde462b7feb1d37b4e44a384d2a28c91) - **test:** fix precision qualifier in test descriptions [(#13172)](https://github.com/stdlib-js/stdlib/pull/13172) _(by Philipp Burckhardt)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Philipp Burckhardt
 
 </section>
